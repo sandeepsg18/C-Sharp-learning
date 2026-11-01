@@ -1,0 +1,15 @@
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.AssemblyInfoInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.AssemblyInfo.cs
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\bin\Debug\net10.0\array.exe
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\bin\Debug\net10.0\array.deps.json
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\bin\Debug\net10.0\array.runtimeconfig.json
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\bin\Debug\net10.0\array.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\bin\Debug\net10.0\array.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\refint\array.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.genruntimeconfig.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\ref\array.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\array\array\obj\Debug\net10.0\array.csproj.Up2Date

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\datatypes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A46E4A8C-0E5E-40E9-A210-1AF4B809ADB9}|datatypes\\datatypes.csproj|c:\\users\\sande\\onedrive\\desktop\\csharp\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46E4A8C-0E5E-40E9-A210-1AF4B809ADB9}|datatypes\\datatypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\datatypes\\datatypes\\Program.cs",
+              "RelativeDocumentMoniker": "datatypes\\Program.cs",
+              "ToolTip": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\datatypes\\datatypes\\Program.cs",
+              "RelativeToolTip": "datatypes\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T04:48:22.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

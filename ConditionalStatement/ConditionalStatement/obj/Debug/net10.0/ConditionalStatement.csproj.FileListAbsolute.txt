@@ -1,0 +1,15 @@
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\bin\Debug\net10.0\ConditionalStatement.exe
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\bin\Debug\net10.0\ConditionalStatement.deps.json
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\bin\Debug\net10.0\ConditionalStatement.runtimeconfig.json
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\bin\Debug\net10.0\ConditionalStatement.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\bin\Debug\net10.0\ConditionalStatement.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ConditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ConditionalStatement.AssemblyInfoInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ConditionalStatement.AssemblyInfo.cs
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ConditionalStatement.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ConditionalStatement.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\refint\ConditionalStatement.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ConditionalStatement.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ConditionalStatement.genruntimeconfig.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\ref\ConditionalStatement.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\ConditionalStatement\ConditionalStatement\obj\Debug\net10.0\Conditio.0727D66B.Up2Date

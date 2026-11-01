@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\type casting example_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15184A8C-68D7-CFBB-DA1B-E908B871D542}|type casting example_1\\type casting example_1.csproj|c:\\users\\sande\\onedrive\\desktop\\csharp\\type casting example_1\\type casting example_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15184A8C-68D7-CFBB-DA1B-E908B871D542}|type casting example_1\\type casting example_1.csproj|solutionrelative:type casting example_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\type casting example_1\\type casting example_1\\Program.cs",
+              "RelativeDocumentMoniker": "type casting example_1\\Program.cs",
+              "ToolTip": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\type casting example_1\\type casting example_1\\Program.cs",
+              "RelativeToolTip": "type casting example_1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:48:56.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

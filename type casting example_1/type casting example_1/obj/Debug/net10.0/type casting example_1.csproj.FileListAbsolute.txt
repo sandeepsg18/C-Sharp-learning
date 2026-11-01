@@ -1,0 +1,15 @@
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\bin\Debug\net10.0\type casting example_1.exe
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\bin\Debug\net10.0\type casting example_1.deps.json
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\bin\Debug\net10.0\type casting example_1.runtimeconfig.json
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\bin\Debug\net10.0\type casting example_1.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\bin\Debug\net10.0\type casting example_1.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type casting example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type casting example_1.AssemblyInfoInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type casting example_1.AssemblyInfo.cs
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type casting example_1.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type casting example_1.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\refint\type casting example_1.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type casting example_1.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type casting example_1.genruntimeconfig.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\ref\type casting example_1.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\type casting example_1\type casting example_1\obj\Debug\net10.0\type cas.55E7F426.Up2Date

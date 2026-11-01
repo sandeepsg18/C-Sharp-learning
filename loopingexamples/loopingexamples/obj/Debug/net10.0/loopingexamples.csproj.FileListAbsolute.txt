@@ -1,0 +1,15 @@
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\bin\Debug\net10.0\loopingexamples.exe
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\bin\Debug\net10.0\loopingexamples.deps.json
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\bin\Debug\net10.0\loopingexamples.runtimeconfig.json
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\bin\Debug\net10.0\loopingexamples.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\bin\Debug\net10.0\loopingexamples.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopingexamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopingexamples.AssemblyInfoInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopingexamples.AssemblyInfo.cs
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopingexamples.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopingexamples.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\refint\loopingexamples.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopingexamples.pdb
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopingexamples.genruntimeconfig.cache
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\ref\loopingexamples.dll
+C:\Users\sande\OneDrive\Desktop\CSharp\loopingexamples\loopingexamples\obj\Debug\net10.0\loopinge.AB785CD8.Up2Date

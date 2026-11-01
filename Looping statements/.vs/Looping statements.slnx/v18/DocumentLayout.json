@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\Looping statements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E60A4A28-7DA4-9266-7B73-77010C9F4E89}|Looping statements\\Looping statements.csproj|c:\\users\\sande\\onedrive\\desktop\\csharp\\looping statements\\looping statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60A4A28-7DA4-9266-7B73-77010C9F4E89}|Looping statements\\Looping statements.csproj|solutionrelative:looping statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\Looping statements\\Looping statements\\Program.cs",
+              "RelativeDocumentMoniker": "Looping statements\\Program.cs",
+              "ToolTip": "C:\\Users\\sande\\OneDrive\\Desktop\\CSharp\\Looping statements\\Looping statements\\Program.cs",
+              "RelativeToolTip": "Looping statements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T15:12:50.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
